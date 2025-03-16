@@ -42,7 +42,7 @@ Here are some ideas to get you started:
   &nbsp;
   <a href="[https://www.linkedin.com/in/arasgungore](https://www.linkedin.com/in/peymandaeirezaei/)" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
   &nbsp;
-  <a href="[https://github.com/arasgungor](https://github.com/Peyman20122)" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a>
+  <a href="[[https://github.com/arasgungor](https://github.com/Peyman20122)](https://github.com/Peyman20122)" target="_blank" rel="noreferrer"> <img alt="Aras Güngöre's GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </a>
   &nbsp;
 </div>
 
